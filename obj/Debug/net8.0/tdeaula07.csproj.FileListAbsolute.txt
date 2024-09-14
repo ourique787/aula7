@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\tdeaula07\bin\Debug\net8.0\tdeaula07.exe
+C:\Users\Usuario\Desktop\tdeaula07\bin\Debug\net8.0\tdeaula07.deps.json
+C:\Users\Usuario\Desktop\tdeaula07\bin\Debug\net8.0\tdeaula07.runtimeconfig.json
+C:\Users\Usuario\Desktop\tdeaula07\bin\Debug\net8.0\tdeaula07.dll
+C:\Users\Usuario\Desktop\tdeaula07\bin\Debug\net8.0\tdeaula07.pdb
+C:\Users\Usuario\Desktop\tdeaula07\obj\Debug\net8.0\tdeaula07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\tdeaula07\obj\Debug\net8.0\tdeaula07.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\tdeaula07\obj\Debug\net8.0\tdeaula07.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\tdeaula07\obj\Debug\net8.0\tdeaula07.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\tdeaula07\obj\Debug\net8.0\tdeaula07.dll
+C:\Users\Usuario\Desktop\tdeaula07\obj\Debug\net8.0\refint\tdeaula07.dll
+C:\Users\Usuario\Desktop\tdeaula07\obj\Debug\net8.0\tdeaula07.pdb
+C:\Users\Usuario\Desktop\tdeaula07\obj\Debug\net8.0\tdeaula07.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\tdeaula07\obj\Debug\net8.0\ref\tdeaula07.dll
